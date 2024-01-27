@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "657adc179078c94b828f46e8"
+  },
+  "firstname": "Joshua",
+  "lastname": "Ngan",
+  "email": "joshuahong@example.com",
+  "phone": 1234567890,
+  "gender": "male",
+  "password": "$2a$10$Pe4BKPt4jGExevFSSHZQmOcjx8L0wsdxQtsxqaF3weDFjEOnzGqeu",
+  "confirmpassword": "$2a$10$Pe4BKPt4jGExevFSSHZQmOcjx8L0wsdxQtsxqaF3weDFjEOnzGqeu",
+  "isAdmin": "true",
+  "roles": [],
+  "createdAt": {
+    "$date": "2023-12-14T10:42:31.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T10:42:31.408Z"
+  },
+  "__v": 0,
+  "dateOfBirth": null,
+  "first": null
+},
+{
+  "_id": {
+    "$oid": "657ae02e2681176ea3b825dc"
+  },
+  "firstname": "Trí Tú",
+  "lastname": "Hồng",
+  "email": "joshuahong@example.com",
+  "phone": "123456789012",
+  "gender": "male",
+  "password": "$2a$10$fKDrhvxx/D2YvyXQn6NM5.V1de6efu7RDgUY2XpiPeBvXLJiiNlci",
+  "isAdmin": false,
+  "roles": [],
+  "createdAt": {
+    "$date": "2023-12-14T10:59:58.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T10:59:58.637Z"
+  },
+  "__v": 0,
+  "avatar": ""
+},
+{
+  "_id": {
+    "$oid": "657ae1cb2681176ea3b825e4"
+  },
+  "firstname": "Yến Nhi",
+  "lastname": "Nguyễn",
+  "email": "nguyenyennhi@gmail.com",
+  "phone": 1234567890,
+  "gender": "male",
+  "password": "$2a$10$Z6s8WPpyaUgASLZafxXs4.7HALqNQ2wz9p910DtJL9.er/pQ53cFy",
+  "isAdmin": false,
+  "roles": [],
+  "createdAt": {
+    "$date": "2023-12-14T11:06:51.613Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T08:51:50.082Z"
+  },
+  "__v": 0,
+  "dateOfBirth": "2015-01-24",
+  "first": null
+},
+{
+  "_id": {
+    "$oid": "657aebefbe8b455e94e61f3b"
+  },
+  "firstname": "Thạc Mân",
+  "lastname": "Lý",
+  "email": "tm@gmail.com",
+  "phone": 1233452312,
+  "gender": "male",
+  "password": "$2a$10$9v2DZvRazTF82zeEZnV3iegVIwov5DhB0XpLpdncxMlJYEkRhXhoK",
+  "isAdmin": false,
+  "roles": [],
+  "createdAt": {
+    "$date": "2023-12-14T11:50:07.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T11:50:07.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657b0d6ee4b908639b65e001"
+  },
+  "firstname": "Mẫn Khôi",
+  "lastname": "Kim",
+  "email": "kmk@gmail.com",
+  "phone": 1232465712,
+  "gender": "male",
+  "password": "$2a$10$fB.c6CytMRwDFvkyG9T9ouQZ9H6cmuvGq6OAJWOO9GqIHowl5ShJu",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-14T14:13:02.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T14:13:02.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657b1909aa44c4ed03af30b6"
+  },
+  "firstname": "Thắng Triệt",
+  "lastname": "Thôi",
+  "email": "ttt@gmail.com",
+  "phone": 1243673122,
+  "gender": "male",
+  "password": "$2a$10$Js/nnctt0lKaMyO1HKuTqOvGLm1uj9gF2PpAtbfaxjIRZaAp4/da6",
+  "isAdmin": true,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-14T15:02:33.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T15:02:33.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657b2d26cba2ffff0d5c0274"
+  },
+  "firstname": "Tịnh Hàn",
+  "lastname": "Doãn",
+  "email": "dth@gmail.com",
+  "phone": 124352412,
+  "gender": "male",
+  "password": "$2a$10$sJTcWeKe//FGXjyUQpyN4OmVftkyyD86t8DOnXVcreRthtSLqwCQa",
+  "isAdmin": true,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-14T16:28:22.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T16:28:22.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657b32f388290999dd60ad73"
+  },
+  "firstname": "Thuận Vinh",
+  "lastname": "Quyền",
+  "email": "qtv@gmail.com",
+  "phone": 453245612,
+  "gender": "male",
+  "password": "$2a$10$WKkaRSX50fxXGiDGipbje.V3fiaar/Fw.6RaonNsjkQkLHdzq.H3e",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-14T16:53:07.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T16:53:07.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657bf50f830dccdb0e0da537"
+  },
+  "firstname": "Trí Huân ",
+  "lastname": "Lý",
+  "email": "lth@gmail.com",
+  "phone": 912345123,
+  "gender": "male",
+  "password": "$2a$10$eS0.32C6I1J8PFx2qHj9Aut46u6uDMQap91QqHVlgn7qAEnV6S1Wm",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-15T06:41:20.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T06:41:20.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c7210cce63239e33c8adf"
+  },
+  "firstname": "Nhi",
+  "lastname": "Nguyen Yen",
+  "email": "nhiny21406c@st.uel.edu.vn",
+  "phone": 1234567812,
+  "gender": "female",
+  "password": "$2a$10$PUpwDMh13wGkfqi8ULOPmuiV9tzTz22xEKvInq4VMtmIqg9mBcVoO",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-15T15:34:40.134Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T15:34:40.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c7e65cce63239e33c8ae5"
+  },
+  "firstname": "nhi",
+  "lastname": "thai",
+  "email": "nguyenyennhi0354@gmail.com",
+  "phone": 1234321456,
+  "gender": "female",
+  "password": "$2a$10$ZNBBT9p1TAteQWd5QsZQdOKJGMSxctx5iEP0ZvHcPg6zK8GPooTMy",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-15T16:27:17.536Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T16:28:39.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c91bb0b7523ded07465ae"
+  },
+  "firstname": "Tuấn Huy",
+  "lastname": "Văn",
+  "email": "vth@gmail.com",
+  "phone": 1234567894,
+  "gender": "Male",
+  "password": "$2a$10$ZhmKoJB34VHnHXntWyQy3.Q7Q89d3yqD1EUyoGugG/erBgMF00OPm",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-15T17:49:47.610Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T17:49:47.610Z"
+  },
+  "__v": 0,
+  "first": null
+},
+{
+  "_id": {
+    "$oid": "657d184935d2702e7aab4696"
+  },
+  "firstname": "Nhi",
+  "lastname": "Yen",
+  "email": "nguyenyennhi0354@gmail.com",
+  "phone": 1234321456,
+  "gender": "female",
+  "password": "$2a$10$owx7tTaAS9/rb5X6/vCt4eZCD2GUZvlM1GZniL9Sca2x1yp.OIIqu",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-16T03:23:53.565Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-16T03:23:53.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fa5cc158081698125f597"
+  },
+  "firstname": "Xán",
+  "lastname": "Lý",
+  "email": "lx@gmail.com",
+  "phone": 91283747,
+  "gender": "male",
+  "password": "$2a$10$zUteTSpupgQgNDofkjfbTuwnAiebYGurvGYq3PlB8dgkSrfaxc/22",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-18T01:52:12.188Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T01:52:12.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65825e098162a264be0e24f9"
+  },
+  "firstname": "Minh Hạo",
+  "lastname": "Từ",
+  "email": "tmh@gmail.com",
+  "phone": 912345123,
+  "gender": "male",
+  "password": "$2a$10$C/7b3sl5nR/GKAMiN2r4oehY7mp1CsgEK276D8cipOmMFcTlxFLP.",
+  "isAdmin": true,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-20T03:22:49.578Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T03:22:49.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65843702e5f80400b1827e78"
+  },
+  "firstname": "Viên Hữu",
+  "lastname": "Toàn",
+  "email": "tvh@gmail.com",
+  "phone": 1235667543,
+  "gender": "male",
+  "password": "$2a$10$ozCNHHJzD8h59LvyJ.NT4.y8m148m0P5WKJ7Ivlwca/39V3upntmO",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-21T13:00:50.887Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-21T13:00:50.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6585ca0d84c3e1aa83323eea"
+  },
+  "firstname": "Nguyen",
+  "lastname": "Nhi",
+  "email": "nhinya21406c@st.uel.edu.vn",
+  "phone": 967690354,
+  "gender": "female",
+  "password": "$2a$10$t7NKxwtwLCqJOtaDe3DLM.kCZthvs7u0JqdsVgO3x1XwDxu3c30ZO",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-22T17:40:29.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T17:40:29.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658855cfc64b5347231db6e8"
+  },
+  "firstname": "Hàn Xuất",
+  "lastname": "Thôi",
+  "email": "thx@gmail.com",
+  "phone": 957690354,
+  "gender": "male",
+  "password": "$2a$10$zKIsrP7RjAGyWcQLJJ.zZeqY2ipyhNZmZDC9nn5QcsZGE17u43.D2",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-24T16:01:19.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T16:01:19.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589352ca7d3b00dadf036bc"
+  },
+  "firstname": "admin",
+  "lastname": "admin",
+  "email": "admin@gmail.com",
+  "phone": 1234567891,
+  "gender": "female",
+  "password": "$2a$10$/Hwmc4Kocg5MYetcEEOrMuOYmxgzIxcxTX5WswANroiAaKoy4LcTq",
+  "isAdmin": true,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-25T07:54:20.300Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T07:54:20.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65893bd904a8bb85afd81439"
+  },
+  "firstname": "Jisoo",
+  "lastname": "Hong",
+  "email": "hongjisoo@gmail.com",
+  "phone": {
+    "$numberLong": "9023534521"
+  },
+  "gender": "male",
+  "password": "$2a$10$9OgMn1JJ.Uf0cyJ4g3BY2uXY0pcFU6cod.yl58SbhY6dE5dl432Uu",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-25T08:22:49.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T08:22:49.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65893c2d04a8bb85afd8143d"
+  },
+  "firstname": "Seokmin",
+  "lastname": "Lee",
+  "email": "leeseokmin@gmail.com",
+  "phone": 2015012412,
+  "gender": "male",
+  "password": "$2a$10$vDZcHdJ0jdGtd0SOBIVjIuofq1rMIcL.jc5gM4IMgdpPV.iH6/pDy",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-25T08:24:13.106Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T08:24:13.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658944efc11802aff109527b"
+  },
+  "firstname": "admin",
+  "lastname": "admin",
+  "email": "admin1@gmail.com",
+  "phone": 1234567891,
+  "gender": "female",
+  "password": "$2a$10$EzRd7V/DKdE6bSWpJmsDAuiPTELJLQlBoOlyoCRyHnW.0HsgY3vai",
+  "isAdmin": true,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-25T09:01:35.490Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T09:01:35.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589c4970f128113eb6f16fc"
+  },
+  "firstname": "Vũ ",
+  "lastname": "Ngân",
+  "email": "vuhongngan2682003@gmail.com",
+  "phone": 939645047,
+  "gender": "female",
+  "password": "$2a$10$EmhUBebKmp1xi20yu8k1IufDE00I1MeGOlu6U//28UbB3WlUGU2cq",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-25T18:06:15.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T18:06:15.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a7fbee126122eec858cd8"
+  },
+  "firstname": "Thao",
+  "lastname": "Nhu",
+  "email": "nhuthao123@gmail.com",
+  "phone": 919368774,
+  "gender": "female",
+  "password": "$2a$10$28qZXnd6LmqSXp5IOlWcd.z1kcMCSDEKub..pgxkwLaltvpLfkH8.",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-26T07:24:46.113Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T07:24:46.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658acb60e126122eec858ce4"
+  },
+  "firstname": "Duong",
+  "lastname": "Ngan",
+  "email": "nhuddt21406c@st.uel.edu.vn",
+  "phone": {
+    "$numberLong": "9193687755"
+  },
+  "gender": "male",
+  "password": "$2a$10$oR/eon0e/q7AsqPRQXg7KOPuCxlP3bCp58QMD92CLcHM8/VdR00DO",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-26T12:47:28.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T13:17:27.469Z"
+  },
+  "__v": 0,
+  "dateOfBirth": {
+    "$date": "2003-10-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "658acc64e126122eec858ce8"
+  },
+  "firstname": "ABC",
+  "lastname": "aaaa",
+  "email": "admin2@gmail.com",
+  "phone": 789456123,
+  "gender": "female",
+  "password": "$2a$10$yBBYMEu4e9vs9hLbZI6WY.kWNGf/veMlbB1GSZjigcJ1GEbo0xXmC",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-26T12:51:48.146Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T12:51:48.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658acce0e126122eec858ced"
+  },
+  "firstname": "Thao",
+  "lastname": "Ngan",
+  "email": "admin5@gmail.com",
+  "phone": 919368775,
+  "gender": "male",
+  "password": "$2a$10$xxoiJ3fYiBenivIyRkfYIOpCa2L/A13q/.FxrMVmE2KO/UqgFX3wG",
+  "isAdmin": false,
+  "role": {
+    "$oid": "657b0d6ae4b908639b65dffe"
+  },
+  "createdAt": {
+    "$date": "2023-12-26T12:53:52.213Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T12:53:52.213Z"
+  },
+  "__v": 0
+}]

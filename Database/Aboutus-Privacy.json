@@ -1,0 +1,136 @@
+{
+    "brand_story": {
+      "description": "At Nomad, a T-shirt is not just a daily garment but also a symbol of unique personal style. Beyond focusing on superior product quality, Nomad invests passion into making each shirt a storytelling masterpiece about youth, joy, and future aspirations.Nomad is more than a brand; it becomes a reliable companion, accompanying you through every step, from adventurous exploits to meaningful moments in your life. With a carefully chosen brand name, Nomad embodies the freedom and openness of the young, those who reject being confined by rules and constraints. Additionally, a homophonic word in French, 'Nomade' meaning 'nomad,' represents the spirit of continuous exploration, unrestricted by any limits. Hence, every Nomad T-shirt carries the essence of ceaseless discovery and the allure of the unknown.This is the message that Nomad wishes to convey to the youth, each time they don creatively and characteristically designed T-shirts from the brand."
+    },
+    "mission": "To create quality T-shirts that ignite the youthful, creative, and pioneering spirit of the younger generation, making each shirt an indispensable part of everyone's wardrobe, a symbol of confidence and personal style.",
+    "vision": "To build a passionate, creative community where everyone can freely express themselves with unique, stylish apparel, becoming a source of inspiration for young fashion enthusiasts on their journey of self-discovery and world exploration.",
+    "values": "Freedom, exploration, quality, creativity, and personal expression.",
+    "return_exchange_policy": {
+      "overview": "Nomad supports exchange or returns for unsatisfied products within 7 days of order receipt.",
+      "conditions_for_exchange_return": [
+        "Defective product due to supplier's fault (damaged, torn, dirty)",
+        "Product does not match the ordered details (size, color, model)"
+      ],
+      "exchange_policy": {
+        "one_exchange_per_order": "Applicable once per order.",
+        "value_condition": "Total value of items for exchange must equal the value of the returned items. No cash refunds for price differences in lower-value exchanges. For higher-value exchanges, customers must pay the difference.",
+        "special_conditions_for_sale_items": "Products on sale can only be exchanged for different color/size if available, not for a different type of bag.",
+        "product_exchange_limitation": "Each product can only be exchanged once."
+      },
+      "product_conditions_for_exchange": [
+        "Must retain original tags, labels, and box",
+        "Unwashed, unused, undamaged",
+        "Not applicable for products not purchased from Nomad",
+        "Void if product is not returned within 7 days of exchange acceptance"
+      ],
+      "return_process_steps": [
+        "Contact via website, hotline, or email to request exchange/return",
+        "Courier pickup for local returns or postal return for online customers",
+        "Nomad receives and inspects the product",
+        "Customer receives a replacement product or refund"
+      ]
+    },
+    "refund_policy": {
+      "conditions_for_refund": [
+        "Product with original tags, labels, and box",
+        "Unused, unwashed",
+        "Not applicable for products not purchased from Nomad",
+        "Void if product not returned within 7 days of return acceptance"
+      ],
+      "refund_process": "If eligible for a refund, Nomad commits to returning 100% of the original price via bank or other digital wallets within 3-5 days after confirming the product details."
+    },
+    "delivery_payment_policy": {
+      "delivery": {
+        "processing_time": "Orders are processed within 24 hours with customer communication about payment and delivery.",
+        "estimated_delivery_time": "Typically 3-5 days or 3-7 days depending on location. Same-day delivery possible in Ho Chi Minh City.",
+        "shipping_costs": "Varies based on courier service rates, location, weight. Specific fee communicated upon order confirmation. Standard COD shipping fee is 30,000 VND per shipment.",
+        "promotions": "Various promotions offer valuable vouchers and free shipping for all orders."
+      },
+      "payment_methods": [
+        "Direct payment (COD)",
+        "Bank transfer to Nomad account",
+        "Online payment via Momo wallet",
+        "Online payment via ZaloPay using QRCode",
+        "Accepted domestic bank cards (BIDV, Vietinbank, ACB, Vietcombank)"
+      ]
+    },
+    "privacy_policy": {
+      "commitment": "Nomad prioritizes protecting personal information and fully complies with privacy laws. We collect necessary and relevant information for transactions including name, phone number, and other details in the manner outlined in our Privacy Policy.",
+      "information_collection": [
+        "Name",
+        "Delivery address",
+        "Phone number"
+      ],
+      "data_usage": "Personal information is solely used to facilitate order and delivery.",
+      "non_disclosure_commitment": "Nomad does not collect or sell personal information to third parties but may share name and address with courier services for delivery purposes, selecting only reputable carriers."
+    },
+    "warranty_policy": {
+      "conditions": [
+        "Product must have the original Nomad logo",
+        "Unaltered original design"
+      ],
+      "free_warranty_coverage": [
+        "Seam tears or fabric damage",
+        "Color fading or print cracking"
+      ],
+      "exclusions": "No warranty for damages due to improper care, accidents, or alterations outside of Nomad."
+    },
+    "online_shopping_guide": {
+      "steps": [
+        "Access website and select products",
+        "Click on the product, choose to continue shopping, view cart, or proceed to checkout",
+        "Select or enter payment account information",
+        "Provide delivery details, choose payment and delivery options",
+        "Review and confirm order details, add notes if necessary, and submit the order"
+      ],
+      "post_order_process": "Nomad will confirm orders and addresses via call or message."
+    },
+    "frequently_asked_questions": [
+      {
+        "question": "Does Nomad deliver on holidays or weekends?",
+        "answer": "Yes, we deliver on weekends and holidays to ensure prompt service."
+      },
+      {
+        "question": "Can I change the address for an order?",
+        "answer": "Yes, contact us with your order details for address changes. Note that additional shipping fees may apply."
+      },
+      {
+        "question": "Can I change a product in an order that has been confirmed?",
+        "answer": "If you want to change the product, the best way is to cancel the current order and place a new one."
+      },
+      {
+        "question": "Can I return a product after the return period has expired?",
+        "answer": "We regret that any product desired to be returned after the specified time frame will not be accepted."
+      },
+      {
+        "question": "I lost my invoice/warranty slip, can I still return the product?",
+        "answer": "If a customer does not have the invoice or product information slip, Nomad still offers flexibility in exchanging or returning the product through the phone number provided at the time of purchase. Please provide the phone number to the sales staff for quick support."
+      },
+      {
+        "question": "How many times will an order be delivered?",
+        "answer": "Your order will be delivered a maximum of three times. If the first or second delivery attempts are unsuccessful, our delivery staff will contact you to confirm the date for the third attempt. If we cannot reach you or do not receive any response, the order will be canceled if you chose COD payment or kept in our warehouse or with the carrier if you have prepaid for the order."
+      },
+      {
+        "question": "How can I check the status of my refund?",
+        "answer": "We will notify you immediately by text or call once the refund is processed. If you wish to check the status of your refund, please contact us via hotline, Facebook, or email."
+      },
+      {
+        "question": "If I am not satisfied with my purchase, can I exchange it?",
+        "answer": "If you are not satisfied with the product, let Nomad know, and we will exchange the product for you. Ensure the product has not been used and retains its original tags and labels. We support exchanges (size, color, or different product of the same type) for the customer."
+      },
+      {
+        "question": "How can I become a loyal Nomad customer?",
+        "answer": "You become a loyal Nomad customer with your first purchase and as you accumulate spending to reach specified tiers. Provide essential information to receive membership benefits from Nomad, including name, phone number, and birthday. For subsequent purchases, simply provide the phone number during transactions for continued support and benefits."
+      },
+      {
+        "question": "How can I accumulate spending?",
+        "answer": "Please provide the phone number (registered as a member with Nomad) to the staff when shopping at the store to record spending accumulation. Similarly, when shopping online (through the website, chat, calling the hotline, or purchasing Nomad products through e-commerce platforms), please log in or provide the registered phone number for accumulation. Note: all spending accumulations are accounted for on a single registered phone number only."
+      }
+    ],
+    "loyalty_program": {
+      "becoming_a_member": "Become a member with your first purchase and accumulate spending to reach specific tiers for rewards.",
+      "member_benefits": "Provide essential information to enjoy member benefits like birthday specials.",
+      "how_to_accumulate_points": "Provide your registered phone number during purchases to accumulate points."
+    }
+  }
+  
